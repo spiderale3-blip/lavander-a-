@@ -1,0 +1,17 @@
+# Respaldos y exportaciones privadas
+*.json
+*.xlsx
+*.xls
+*.csv
+*.pdf
+respaldo*/
+backups/
+exports/
+
+# Credenciales y archivos locales
+.env
+.env.*
+node_modules/
+.openai/
+.DS_Store
+Thumbs.db
